@@ -1,5 +1,8 @@
 ### Hey there! 👋
 ### I am Anupama
+- 🌱 I’m currently learning C 
+- :books: Studying at PES University Electronic City Campus
+- 👀 Looking forward to learn
 
 <!--
 **anupamakpatil/anupamakpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
